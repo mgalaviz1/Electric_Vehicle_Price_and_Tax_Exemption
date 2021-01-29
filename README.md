@@ -12,4 +12,4 @@ Results of a Mann-Whitney U-test revealed a significant difference between the a
 
 We can conclude that EV automakers can spend more to increase the range of their vehicles to meet the tax exemption threshold of 30 miles (all electric range) and charge more for their EVs. 
 
-Bias assumes that the tax exemption continues under Washington state and federal law. We also make these assumption as they apply only to EV sales in Washington state or other states where EV sales are relatively strong already. 
+Bias here assumes that the tax exemption continues under Washington state and federal law. We also make these assumption as they apply only to EV sales in Washington state or other states where EV sales are relatively strong already. 
