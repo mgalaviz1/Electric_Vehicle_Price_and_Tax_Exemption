@@ -8,4 +8,8 @@ This analysis uses data from the Department of Revenue in Washington state conta
 
 Dataset URL -  https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2
 
-Results of a J Mann-Whitney t-test revealed a significant difference between the average MSRP between EVs that qualify for the tax exemption and those that do not. 
+Results of a Mann-Whitney U-test revealed a significant difference between the average MSRP between EVs that qualify for the tax exemption and those that do not. There is a 95% confidence level that EVs that qualify for the tax exemption have a higher median price between $2600 and $2880 than EVs that do not qualify. 
+
+We can conclude that EV automakers can spend more to increase the range of their vehicles to meet the tax exemption threshold of 30 miles (all electric range) and charge more for their EVs. 
+
+Bias assumes that the tax exemption continues under Washington state and federal law. We also make these assumption as they apply only to EV sales in Washington state or other states where EV sales are relatively strong already. 
